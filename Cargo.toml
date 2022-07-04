@@ -1,0 +1,9 @@
+[package]
+name = "midi314-display"
+version = "0.1.0"
+authors = ["Guillaume Savaton <guillaume.savaton@tiliosys.fr>"]
+
+[dependencies]
+jack = "0.10"
+midi314 = { git = "https://github.com/tiliosys/midi314-lib" }
+pcd8544 = { git = "https://github.com/tiliosys/pcd8544-rust" }
