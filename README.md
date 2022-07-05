@@ -28,7 +28,7 @@ The display shows the following information:
 If no LCD is attached, the program also prints the same information to the standard output.
 
 Building
-========
+--------
 
 Build the program using this command from the root of the source tree:
 
@@ -37,7 +37,7 @@ cargo build --release
 ```
 
 Running
-=======
+-------
 
 We assume that you have followed the instructions from
 [midi314-looper](https://github.com/tiliosys/midi314-looper/blob/main/README.md)
